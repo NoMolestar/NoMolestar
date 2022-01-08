@@ -1,7 +1,25 @@
-<h1 align="center">Hi , I'm Moisés Chávez&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Moisés Chávez&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things;Inspire%20Change&center=true&width=500&height=50"></a>
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://twitter.com/iamoy13"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/iamoy13?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/NoMolestar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoMolestar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+## 📖 About me
+
+* 💻 I'm a full stack web developer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in June 2023)
+* 🔭 I’m currently working on ...
+* 😄 Pronouns: ...
+* ⚡ Fun fact: ...
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA)
 
 ## 🛠️ My Skills
 
@@ -132,6 +150,32 @@ Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
+
+### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
+EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
+Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+
+</p>
+
+## 📈 Github Stats
+
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/NoMolestar/github-readme-stats"><img alt="NoMolestar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NoMolestar&show_icons=true&count_private=true&hide=" /></a>
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/NoMolestar/github-readme-stats"><img alt="NoMolestar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMolestar&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 <!--
