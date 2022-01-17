@@ -12,14 +12,14 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in June 2023)
-* 🔭 I’m currently working on ...
-* 😄 Pronouns: ...
-* ⚡ Fun fact: ...
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA)
+* 💻 I design software for and from people.
+* 🎓 I'm a Computer Science student (graduating in June 2023).
+* 🔭 I’m currently working as Software Engineering Intern at @Oracle.
+* 💪 I like to exercise and lift weights.
+* 😄 Pronouns: He/Him.
+* ⚡ Fun fact: 
+* 🌐 You can see some of my projects on [my portfolio](https://moises-chavez.duckdns.org/)
+* 📺 I show some of my software projects and videogame projects on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA)
 
 ## 🛠️ My Skills
 
@@ -137,23 +137,25 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [ Learning 2 Code: ](https://github.com/NoMolestar/Learn2Code)<br>
+This is a website for helping learners develop their coding skills through educational text, videos and various forms of media. In addition, this is also a platform for links to resources to support our learners overall well-being.<br>
+Programming Languages Utilized: Python (Flask), HTML, JavaScript, Angular.
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
-
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [ Image Captioning Project: ](https://github.com/NoMolestar/Image-Captioning-Project)<br>
+This project consists of a web and mobile based app that generates captions from images captured by the device's camera.  <br>
+Programming Languages Utilized: Python (Flask), HTML, CSS, Javascript.
+Encapsulated in Docker container.
 
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [ Urban Mobility Simulation in Mexico: ](https://github.com/NoMolestar/Urban-Mobility-Simulation-in-Mexico)<br>
+Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.<br>
+Programming Languages Utilized: Python (Flask), Python, C#.
+Simulated on Unity.
+
+
+### [ Syntactic Highlighter: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
+Java project that takes a text file and generates an html file with the marked syntax. It is capable of reading multiple files at once with the use of threads. It highlights characters according to their type. They can be variables, constants, integers, floats, operators, symbols, etc.<br>
+Programming Languages Utilized: Java.
 
 </p>
 
