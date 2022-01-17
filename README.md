@@ -138,23 +138,23 @@
 
 ## 📝 Recent Projects
 ### [ Learning 2 Code: ](https://github.com/NoMolestar/Learn2Code)<br>
-This is a website for helping learners develop their coding skills through educational text, videos and various forms of media. In addition, this is also a platform for links to resources to support our learners overall well-being.<br>
+This is a website for helping learners develop their coding skills through educational text, videos and various forms of media. In addition, this is also a platform for links to resources to support our learners overall well-being.
 #### Programming Languages Utilized: Python (Flask), HTML, JavaScript, Angular.
 
 ### [ Image Captioning Project: ](https://github.com/NoMolestar/Image-Captioning-Project)<br>
-This project consists of a web and mobile based app that generates captions from images captured by the device's camera.  <br>
-#### Programming Languages Utilized: Python (Flask), HTML, CSS, Javascript.<br>
+This project consists of a web and mobile based app that generates captions from images captured by the device's camera.
+#### Programming Languages Utilized: Python (Flask), HTML, CSS, Javascript.
 #### Encapsulated in Docker container.
 
 
 ### [ Urban Mobility Simulation in Mexico: ](https://github.com/NoMolestar/Urban-Mobility-Simulation-in-Mexico)<br>
-Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.<br>
-#### Programming Languages Utilized: Python (Flask), Python, C#.<br>
+Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.
+#### Programming Languages Utilized: Python (Flask), Python, C#.
 #### Simulated on Unity.
 
 
 ### [ Syntactic Highlighter: ](https://github.com/NoMolestar/Syntactic-highlighter)<br>
-Java project that takes a text file and generates an html file with the marked syntax. It is capable of reading multiple files at once with the use of threads. It highlights characters according to their type. They can be variables, constants, integers, floats, operators, symbols, etc.<br>
+Java project that takes a text file and generates an html file with the marked syntax. It is capable of reading multiple files at once with the use of threads. It highlights characters according to their type. They can be variables, constants, integers, floats, operators, symbols, etc.
 #### Programming Languages Utilized: Java.
 
 </p>
