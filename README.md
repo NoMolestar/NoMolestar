@@ -117,17 +117,17 @@
 ## 📝 Recent Projects
 ### [ Learning 2 Code: ](https://github.com/NoMolestar/Learn2Code)<br>
 This is a website for helping learners develop their coding skills through educational text, videos and various forms of media. In addition, this is also a platform for links to resources to support our learners overall well-being.<br>
-**Programming Languages Utilized: Python (Flask), HTML, JavaScript, Angular.**
+**Programming Languages Utilized: Flask (Python/Backend), HTML, JavaScript, Angular.**
 
 ### [ Image Captioning Project: ](https://github.com/NoMolestar/Image-Captioning-Project)<br>
 This project consists of a web and mobile based app that generates captions from images captured by the device's camera.  <br>
-**Programming Languages Utilized: Python (Flask), HTML, CSS, Javascript.**<br>
+**Programming Languages Utilized: Flask (Python/Backend), HTML, CSS, Javascript.**<br>
 **Encapsulated in Docker container.**
 
 
 ### [ Urban Mobility Simulation in Mexico: ](https://github.com/NoMolestar/Urban-Mobility-Simulation-in-Mexico)<br>
 Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.<br>
-**Programming Languages Utilized: Python (Flask), Python, C#.**<br>
+**Programming Languages Utilized: Flask (Python/Backend), Python, C#.**<br>
 **Simulated on Unity.**
 
 
