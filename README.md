@@ -129,7 +129,10 @@ This project consists of a web and mobile based app that generates captions from
 Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.<br>
 **Programming Languages Utilized: Flask (Python/Backend), Python, C#.**<br>
 **Simulated on Unity.**
-
+  
+### [ Intelligent Room Project: ](https://github.com/NoMolestar/Intelligent-Room-Project)<br>
+Won first place in the Campus Engineering Expo by developing a mobile app which can be used to control a room´s light, fan, doors and windows in combination with a NodeMCU board. The app also connects to an API to get the current weather and use it to predict if it is going to rain using a Deep Learning model.<br>
+**Programming Languages Utilized: Ionic, Firebase, Keras, ChartJS and TensorFlowJS.**
 
 ### [ Syntactic Highlighter: ](https://github.com/NoMolestar/Syntactic-highlighter)<br>
 Java project that takes a text file and generates an html file with the marked syntax. It is capable of reading multiple files at once with the use of threads. It highlights characters according to their type. They can be variables, constants, integers, floats, operators, symbols, etc.<br>
