@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UClBJnG7EbUKo9o7gvnjxKzA?style=for-the-badge"/></a> 
   <a href="https://twitter.com/iamoy13"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/iamoy13?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/NoMolestar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoMolestar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=koding&logoColor=red"/></a>
 </p>
 
 ## 📖 About me
@@ -133,7 +133,7 @@ Solution to the urban mobility problem in Mexico, through an approach that reduc
 Won first place in the Campus Engineering Expo by developing a mobile app which can be used to control a room´s light, fan, doors and windows in combination with a NodeMCU board. The app also connects to an API to get the current weather and use it to predict if it is going to rain using a Deep Learning model.<br>
 **Programming Languages Utilized: Ionic, Firebase, Keras, ChartJS and TensorFlowJS.**
 
-### [ Hiredocs: ]()<br>
+### [ Hiredocs: ](https://www.amdocs.com/)<br>
 Web platform with user type management to control and follow up the recruitment process of new personnel.<br>
 **Developed for Amdocs. Private for data protection.**
 **Programming Languages Utilized: HTML/CSS, JavaScript, and Node.**
