@@ -13,13 +13,13 @@
 ## 📖 About me
 
 * 💻 I design software for and from people.
-* 🎓 I'm a Computer Science student (graduating in June 2023).
-* 🔭 I’m currently working as Software Engineering Intern at @Oracle.
+* 🎓 I'm a Computer Science student (graduating in June 2023) at [Tecnológico de Monterrey](https://tec.mx/es).
+* 🔭 I’m currently working as Software Engineering Intern at [Oracle](https://www.oracle.com/mx/index.html).
 * 💪 I like to exercise and lift weights.
 * 😄 Pronouns: He/Him.
 * ⚡ Fun fact: My favorite painting is Van Gogh's Starry Night, but I don't like any of his other works.
-* 🌐 You can see some of my certifications and achievements on [Achievements](https://drive.google.com/drive/folders/13amU9IwXsxay94_79QhxiTpeIX4BIW0W?usp=sharing)
-* 📺 I show some of my software projects and videogame projects on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA)
+* 🌐 You can see some of my certifications and achievements on [Achievements](https://drive.google.com/drive/folders/13amU9IwXsxay94_79QhxiTpeIX4BIW0W?usp=sharing).
+* 📺 I show some of my software projects and videogame projects on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA).
 
 ## 🛠️ My Skills
 
