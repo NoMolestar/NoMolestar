@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UClBJnG7EbUKo9o7gvnjxKzA?style=for-the-badge"/></a> 
   <a href="https://twitter.com/iamoy13"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/iamoy13?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/NoMolestar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoMolestar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/static/v1?label=Resume&message=Resume&color=red"/></a>
 </p>
 
 ## 📖 About me
@@ -18,7 +18,7 @@
 * 💪 I like to exercise and lift weights.
 * 😄 Pronouns: He/Him.
 * ⚡ Fun fact: My favorite painting is Van Gogh's Starry Night, but I don't like any of his other works.
-* 🌐 You can see some of my certifications and achievements on [Certifications](https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing)
+* 🌐 You can see some of my certifications and achievements on [Achievements](https://drive.google.com/drive/folders/13amU9IwXsxay94_79QhxiTpeIX4BIW0W?usp=sharing)
 * 📺 I show some of my software projects and videogame projects on [YouTube](https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA)
 
 ## 🛠️ My Skills
