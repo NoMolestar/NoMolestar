@@ -5,16 +5,17 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UClBJnG7EbUKo9o7gvnjxKzA"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UClBJnG7EbUKo9o7gvnjxKzA?style=for-the-badge"/></a> 
-  <a href="https://twitter.com/iamoy13"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/iamoy13?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/moises_chvz"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/iamoy13?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/NoMolestar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoMolestar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://drive.google.com/file/d/1ol88js3CNstnrOAOFw4YzgMEuznUca6R/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=koding&logoColor=red"/></a>
+  <a href="https://drive.google.com/file/d/1_vVAzu04aOwJpvYCzlKD68VFK2tqE63f/view?usp=sharing"><img alt="Resume" title="Resume" src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=koding&logoColor=red"/></a>
 </p>
 
 ## 📖 About me
 
-* 💻 I design software for and from people.
-* 🎓 I'm a Computer Science student (graduating in June 2023) at [Tecnológico de Monterrey](https://tec.mx/es).
-* 🔭 I’m currently working as Software Engineering Intern at [Oracle](https://www.oracle.com/mx/index.html).
+* 🙌 I design software for and from people.
+* 🎓 I'm a Software Engineer graduated from [Tecnológico de Monterrey](https://tec.mx/en).
+* 🔭 I’m currently working as Member of Technical Staff at [Oracle](https://www.oracle.com/).
+* 💻 I obtained my degree as a software development technologist at CETI.
 * 💪 I like to exercise and lift weights.
 * 😄 Pronouns: He/Him.
 * ⚡ Fun fact: My favorite painting is Van Gogh's Starry Night, but I don't like any of his other works.
@@ -115,6 +116,13 @@
 <p>
 
 ## 📝 Recent Projects
+### [ Images-based System Predictor of Freshwater Body Variables: ](https://github.com/NoMolestar/Camera-based-Water-Stage-and-Discharge-Prediction-with-Machine-Learning)<br>
+Project carried out in collaboration with the University of Nebraska-Lincoln. Published in the 2023 scientific journal of the Mexican Conference on Pattern Recognition.
+System that processes a series of images of a river and,
+through deep learning, generates a regression model to
+predict the water level and flow rate.<br>
+**Programming Languages Utilized: Python and Latex**
+
 ### [ Learning 2 Code: ](https://github.com/NoMolestar/Learn2Code)<br>
 This is a website for helping learners develop their coding skills through educational text, videos and various forms of media. In addition, this is also a platform for links to resources to support our learners overall well-being.<br>
 **Programming Languages Utilized: Flask (Python/Backend), HTML, JavaScript, Angular.**
@@ -128,10 +136,6 @@ This project consists of a web and mobile based app that generates captions from
 Solution to the urban mobility problem in Mexico, through an approach that reduces vehicular congestion by graphically simulating traffic, representing the output of a multi-agent system.<br>
 **Programming Languages Utilized: Flask (Python/Backend), Python, C#.**<br>
 **Simulated on Unity.**
-  
-### [ Intelligent Room Project: ](https://github.com/NoMolestar/Intelligent-Room-Project)<br>
-Won first place in the Campus Engineering Expo by developing a mobile app which can be used to control a room´s light, fan, doors and windows in combination with a NodeMCU board. The app also connects to an API to get the current weather and use it to predict if it is going to rain using a Deep Learning model.<br>
-**Programming Languages Utilized: Ionic, Firebase, Keras, ChartJS and TensorFlowJS.**
 
 ### [ Hiredocs: ](https://www.amdocs.com/)<br>
 Web platform with user type management to control and follow up the recruitment process of new personnel.<br>
